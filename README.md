@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Peter Precious 
+- 👀 I’m interested in MERN stack web development 
+- 🌱 I’m currently learning Software Engineering
+- 💞️ I’m looking to collaborate on MERN stack projects 
+- 📫 How to reach me preshtech18@gmail.com, +2349030912056
+- 😄 Pronouns: loading...
+- ⚡ Fun fact: coding is life
